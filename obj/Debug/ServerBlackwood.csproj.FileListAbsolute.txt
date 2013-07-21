@@ -1,0 +1,116 @@
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\libcurl.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\LibCurlShim.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\EarlyClose.csv
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\ServerBlackwood.exe.config
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\Blackwood.Framework.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\CBWMessages.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\TradeLinkAPI.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\TradeLinkAppKit.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\TradeLinkCommon.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\zlib.net.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\LibCurlNet.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\Ionic.Zip.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\Types.dll
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\TradeLinkAPI.pdb
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\TradeLinkAppKit.pdb
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\TradeLinkCommon.pdb
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\Blackwood.Framework.xml
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\ServerBlackwood.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\ServerBlackwood.ServerBlackwoodMain.resources
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\bin\Debug\ServerBlackwood.application
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Desktop\TLS\ServerBlackwood\obj\Debug\ServerBlackwood.application
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\ServerBlackwood.exe.config
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\ServerBlackwood.application
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\Blackwood.Framework.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\CBWMessages.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\TradeLinkAPI.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\TradeLinkAppKit.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\TradeLinkCommon.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\zlib.net.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\Types.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\LibCurlNet.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\Ionic.Zip.dll
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\bin\Debug\Blackwood.Framework.xml
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\ServerBlackwood.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\ServerBlackwood.ServerBlackwoodMain.resources
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Desktop\TrueFinal\ServerBlackwood\obj\Debug\ServerBlackwood.application
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.exe.config
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.application
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\TradeLinkAPI.dll
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\TradeLinkAppKit.dll
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\TradeLinkCommon.dll
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\zlib.net.dll
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\Types.dll
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\LibCurlNet.dll
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\Ionic.Zip.dll
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\bin\Debug\Blackwood.Framework.xml
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.Properties.Resources.resources
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.ServerBlackwoodMain.resources
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Documents\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.application
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\ServerBlackwood.exe.config
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\ServerBlackwood.application
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\ServerBlackwood.exe
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\ServerBlackwood.pdb
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\TradeLinkAPI.dll
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\TradeLinkAppKit.dll
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\TradeLinkCommon.dll
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\bin\Debug\zlib.net.dll
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\ServerBlackwood.Properties.Resources.resources
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\ServerBlackwood.ServerBlackwoodMain.resources
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\ServerBlackwood.exe.manifest
+C:\Users\Jonathan\Documents\BW.Patch\Original Bridge\ServerBlackwood\obj\Debug\ServerBlackwood.application
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.exe.config
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.exe
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.pdb
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.exe.manifest
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.application
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.exe
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\ServerBlackwood.pdb
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\TradeLinkAPI.dll
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\TradeLinkAppKit.dll
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\TradeLinkCommon.dll
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\zlib.net.dll
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\Types.dll
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\LibCurlNet.dll
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\Ionic.Zip.dll
+G:\Blackwood API\BW.Patch\ServerBlackwood\bin\Debug\Blackwood.Framework.xml
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\ResolveAssemblyReference.cache
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.Properties.Resources.resources
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.ServerBlackwoodMain.resources
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\GenerateResource.read.1.tlog
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\GenerateResource.write.1.tlog
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.exe.manifest
+G:\Blackwood API\BW.Patch\ServerBlackwood\obj\Debug\ServerBlackwood.application
